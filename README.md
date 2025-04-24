@@ -124,7 +124,9 @@ print(f'Training took {total/60} minutes')
 ![Screenshot 2025-04-24 091045](https://github.com/user-attachments/assets/cf5b6dab-f171-4213-a6f5-a06c83d031f6)
 
 
-![Screenshot 2025-04-24 091032](https://github.com/user-attachments/assets/f92a006f-7557-4055-be75-bb54cd07ee39)
+
+![Screenshot 2025-04-24 093452](https://github.com/user-attachments/assets/56bd527d-ed81-4421-a858-c9230f9a2ea8)
+
 
 
 ![Screenshot 2025-04-24 091026](https://github.com/user-attachments/assets/d4cb8a43-e1ca-462d-b39a-ff9bc464ac39)
